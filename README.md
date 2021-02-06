@@ -14,6 +14,7 @@ npm i contains-burmese
 const { containsBurmese } = require('contains-burmese');
 
 let result = containsBurmese('မြန်မာနိုင်ငံ Myanmar Country');
+console.log(`containsBurmese: ${result}`);
 ```
 
 The function will return `true` if there is at least one Burmese character in the string.
