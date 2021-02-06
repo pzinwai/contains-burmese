@@ -10,11 +10,12 @@
     "contains-burmese",
     "burmese-language"
   ],
-  "scripts": {},
+  "scripts": {
+  },
   "author": "Phyo Zin Wai",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pzinwai/singapore-ic-validator.git"
+    "url": "https://github.com/pzinwai/contains-burmese.git"
   }
 }
