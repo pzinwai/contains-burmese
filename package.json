@@ -1,0 +1,21 @@
+{
+  "name": "contains-burmese",
+  "version": "1.0.0",
+  "description": "A library to check whether a string contains any Burmese text.",
+  "main": "index.js",
+  "keywords": [
+    "burmese",
+    "is-burmese",
+    "has-burmese",
+    "contains-burmese",
+    "burmese-language"
+  ],
+  "scripts": {
+  },
+  "author": "Phyo Zin Wai",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pzinwai/singapore-ic-validator.git"
+  }
+}
